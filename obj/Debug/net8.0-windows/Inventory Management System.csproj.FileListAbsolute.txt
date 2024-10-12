@@ -1,0 +1,17 @@
+E:\madebyME\Inventory Management System\bin\Debug\net8.0-windows\Inventory Management System.exe
+E:\madebyME\Inventory Management System\bin\Debug\net8.0-windows\Inventory Management System.deps.json
+E:\madebyME\Inventory Management System\bin\Debug\net8.0-windows\Inventory Management System.runtimeconfig.json
+E:\madebyME\Inventory Management System\bin\Debug\net8.0-windows\Inventory Management System.dll
+E:\madebyME\Inventory Management System\bin\Debug\net8.0-windows\Inventory Management System.pdb
+E:\madebyME\Inventory Management System\obj\Debug\net8.0-windows\Inventory_Management_System.Inventory.resources
+E:\madebyME\Inventory Management System\obj\Debug\net8.0-windows\Inventory_Management_System.Properties.Resources.resources
+E:\madebyME\Inventory Management System\obj\Debug\net8.0-windows\Inventory Management System.csproj.GenerateResource.cache
+E:\madebyME\Inventory Management System\obj\Debug\net8.0-windows\Inventory Management System.GeneratedMSBuildEditorConfig.editorconfig
+E:\madebyME\Inventory Management System\obj\Debug\net8.0-windows\Inventory Management System.AssemblyInfoInputs.cache
+E:\madebyME\Inventory Management System\obj\Debug\net8.0-windows\Inventory Management System.AssemblyInfo.cs
+E:\madebyME\Inventory Management System\obj\Debug\net8.0-windows\Inventory Management System.csproj.CoreCompileInputs.cache
+E:\madebyME\Inventory Management System\obj\Debug\net8.0-windows\Inventory Management System.dll
+E:\madebyME\Inventory Management System\obj\Debug\net8.0-windows\refint\Inventory Management System.dll
+E:\madebyME\Inventory Management System\obj\Debug\net8.0-windows\Inventory Management System.pdb
+E:\madebyME\Inventory Management System\obj\Debug\net8.0-windows\Inventory Management System.genruntimeconfig.cache
+E:\madebyME\Inventory Management System\obj\Debug\net8.0-windows\ref\Inventory Management System.dll
